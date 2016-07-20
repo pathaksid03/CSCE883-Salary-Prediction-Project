@@ -1,4 +1,5 @@
 # CSCE883 Salary Prediction Project
+## Team name- The Moles
 ************the R code for the Linear Regression we finally used is not in this repo**********
 The partial code of a  project which was part of CSCE 883- Machine Learning course at University of South Carolina.
 
